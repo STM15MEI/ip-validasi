@@ -1,13 +1,13 @@
 {
-  "allowedIps": ["172.18.0.4", "172.18.0.3"],
+  "allowedIps": ["161.35.9.212", "103.63.26.204"],
   "users": [
     {
-      "username": "user1",
-      "password": "password1"
+      "username": "oredigital",
+      "password": "oredigital09"
     },
     {
-      "username": "user2",
-      "password": "password2"
+      "username": "oreoffc",
+      "password": "oreoffc123"
     }
   ]
 }
